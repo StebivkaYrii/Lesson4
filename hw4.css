@@ -1,0 +1,54 @@
+.w600 {
+    width: 600px;
+}
+.h40 {
+     height: 40px;
+ }
+.text{
+    text-align: center;
+}
+.b-s {
+    box-sizing: border-box;
+}
+.fl-dir-c {
+    flex-direction: column;
+}
+.fl-dir-r {
+    flex-direction: row;
+    display: flex;
+
+}
+.color {
+    color: white;
+}
+.pad10 {
+    padding-top: 10px;
+}
+.pad180 {
+    padding-top: 180px;
+}
+.AA {
+    height: 600px;
+}
+.Header {
+    background: #0c65a7;
+    height: 50px;
+}
+.Nav {
+    background: #124B78FF;
+}
+.h470 {
+    height: 470px;
+}
+.Main {
+    width: 500px;
+    background: #16A1C4FF;
+}
+.Aside {
+    width: 100px;
+    background: #5275ACFF;
+}
+.Footer {
+    background: #7bcce2;
+}
+

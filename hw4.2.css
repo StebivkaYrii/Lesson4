@@ -1,0 +1,39 @@
+.mar {
+    margin: 5px;
+}
+.w620 {
+    width: 620px;
+}
+.w200 {
+    width: 200px;
+}
+.h200 {
+    height: 200px;
+}
+.b-s {
+    box-sizing: border-box;
+}
+.t-a {
+    text-align: center;
+    color: white;
+}
+.fl-dir-r {
+    flex-direction: row;
+    display: flex;
+}
+.pad60 {
+    padding-top: 60px;
+}
+.fl-dir-c {
+    flex-direction: column;
+}
+.bag1 {
+    background: #2269ba;
+}
+.bag2 {
+    background: #16457a;
+}
+.Contact {
+    padding-top: 180px;
+    height: 400px;
+}

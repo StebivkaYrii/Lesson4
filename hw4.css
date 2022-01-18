@@ -16,7 +16,6 @@
 .fl-dir-r {
     flex-direction: row;
     display: flex;
-
 }
 .color {
     color: white;

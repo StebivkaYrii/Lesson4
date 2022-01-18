@@ -1,0 +1,37 @@
+.mar {
+    margin: 5px;
+}
+.w390 {
+    width: 390px;
+}
+.w190 {
+    width: 288px;
+}
+.h75 {
+    height: 75px;
+}
+.h150 {
+    height: 150px;
+}
+.bag1 {
+    background: #e5f6af;
+}
+.bag2 {
+    background: #9ee1fd;
+}
+.fl-d-c {
+    flex-direction: column;
+}
+.fl-d-r {
+    box-sizing: border-box;
+    flex-direction: row;
+    display: flex;
+}
+.menu {
+    width: 90px;
+    height: 310px;
+    background: #fdb6fd;
+}
+.bord {
+     border: 1px solid black;
+ }
